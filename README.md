@@ -17,7 +17,7 @@ Specially thanks for the open-source codes shared by [*sagelywizard/pytorch-mdn*
 - Density Estimation
 - Conditonal Estimation
 
-#### To run ood_visualization.ipynb, please download the pretrained model in the ./model/ folder.
+#### To run ood_visualization.ipynb, please download the pretrained model in the ./model/ folder. (google drive link later)
 
 #### The other baselines can be run by calling
 ```shell
